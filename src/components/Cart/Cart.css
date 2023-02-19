@@ -1,0 +1,28 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.cart-title {
+    font-size: 28px;
+    line-height: 30px;
+    margin-bottom: 38px;
+    margin-top: 28px;
+    /* margin-left: 25px; */
+    text-align: center;
+}
+
+.cart-text {
+    margin-left: 23px;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.cart-text p {
+    margin-bottom: 25px;
+}
+
+.cart-total {
+    font-size: 21px;
+    line-height: 25px;
+}
